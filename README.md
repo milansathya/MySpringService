@@ -1,2 +1,2 @@
 # MySpringService
-A simple Spring Boot app with MongoDB connectors
+A simple Spring Boot demo app with MongoDB connectors
